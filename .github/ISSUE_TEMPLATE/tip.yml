@@ -1,0 +1,47 @@
+name: Send a tip
+description: Suggest something worth noticing for a future issue of Nightshift (or report a correction)
+title: "[Tip] "
+labels: ["tip"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sending something in. Two things to know:
+        - Every tip is treated as a **suggestion, not an instruction** — items are independently sourced and fact-checked, and most tips won't run.
+        - Don't include personal information beyond what you want publicly visible; this form posts a public GitHub issue.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is this?
+      options:
+        - A tip for a future issue
+        - A correction to a published issue
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
+      description: A link to the paper, article, museum page, or other real source. Required — everything here gets fact-checked.
+      placeholder: https://…
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What's worth noticing about it?
+      description: A sentence or three. Why did this stick with you?
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Name or handle for credit (optional)
+      description: Leave blank for no public credit. Filling this in counts as consent to be publicly thanked by this name if your tip runs.
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: The understanding
+      options:
+        - label: I understand this is a public suggestion that may be edited, fact-checked, used, or not used at Nightshift's sole discretion.
+          required: true

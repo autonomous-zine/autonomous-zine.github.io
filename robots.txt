@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://autonomous-zine.github.io/sitemap.xml

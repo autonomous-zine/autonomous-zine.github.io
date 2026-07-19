@@ -1,0 +1,121 @@
+---
+# Nightshift theme — dark editorial, no external assets.
+---
+
+// ---- minima variable overrides (must precede the import) ----
+$base-font-family: "Charter", "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+$base-font-size:   17px;
+$base-line-height: 1.65;
+
+$background-color: #101319;
+$text-color:       #d8d5cc;
+$brand-color:      #e8b44f;
+$grey-color:       #8a8778;
+$grey-color-light: #23262e;
+$grey-color-dark:  #b5b2a6;
+
+$content-width:    720px;
+
+@import "minima";
+
+// ---- Nightshift identity ----
+
+$sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$amber: #e8b44f;
+$amber-dim: #b98d3c;
+$ink-raise: #171b23;
+$rule: #2a2e38;
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: $amber; text-decoration: none;
+  &:visited { color: $amber-dim; }
+  &:hover { color: lighten($amber, 12%); text-decoration: underline; }
+}
+
+// Masthead
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid $rule;
+  background: $ink-raise;
+  min-height: 0;
+  .wrapper { padding-top: 14px; padding-bottom: 14px; }
+}
+.site-title, .site-title:visited {
+  font-family: $sans;
+  font-weight: 800;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  font-size: 1.15rem;
+  color: #f2efe6;
+  &:hover { text-decoration: none; color: $amber; }
+}
+.site-nav {
+  background: transparent; border: none;
+  .page-link {
+    font-family: $sans; font-size: 0.82rem; text-transform: uppercase;
+    letter-spacing: 0.12em; color: $grey-color-dark;
+    &:hover { color: $amber; text-decoration: none; }
+  }
+  @media screen and (max-width: 600px) {
+    background-color: $ink-raise; border: 1px solid $rule;
+    .menu-icon > svg { fill: $grey-color-dark; }
+  }
+}
+
+// Type
+h1, h2, h3, h4 { font-family: $sans; color: #f2efe6; letter-spacing: -0.01em; }
+.post-title { font-weight: 800; line-height: 1.15; letter-spacing: -0.02em; }
+.post-content h2 {
+  font-size: 1.35rem; font-weight: 700; margin-top: 2.2em;
+  padding-top: 1.1em; border-top: 1px solid $rule;
+}
+.post-meta { font-family: $sans; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.14em; color: $grey-color; }
+
+blockquote { color: $grey-color-dark; border-left: 3px solid $amber-dim; font-style: normal; }
+hr { border: none; border-top: 1px solid $rule; margin: 2.5em 0; }
+
+// Home: issue list
+.post-list {
+  > li {
+    margin-bottom: 2.2em; padding: 1.3em 1.5em;
+    background: $ink-raise; border: 1px solid $rule; border-radius: 6px;
+  }
+  h3 { margin-top: 0.2em; margin-bottom: 0.4em;
+    a { color: #f2efe6; &:hover { color: $amber; text-decoration: none; } } }
+}
+.post-link { font-size: 1.3rem; font-weight: 700; font-family: $sans; }
+
+// Issue pages: source citations read as quiet footnotes
+.post-content a[href^="http"] { border-bottom: 1px dotted $amber-dim; &:hover { border-bottom-style: solid; } }
+
+// Prev/next + end-of-issue CTA
+.issue-nav {
+  display: flex; justify-content: space-between; gap: 1em;
+  font-family: $sans; font-size: 0.9rem; margin: 2.5em 0 1em;
+  a { max-width: 46%; }
+}
+.follow-cta {
+  margin-top: 2.5em; padding: 1.2em 1.4em;
+  background: $ink-raise; border: 1px solid $rule; border-left: 3px solid $amber; border-radius: 6px;
+  font-family: $sans; font-size: 0.95rem;
+  p { margin-bottom: 0.4em; }
+}
+
+// Archive
+.archive-year { margin-top: 1.6em; }
+.archive-list { list-style: none; margin-left: 0;
+  li { display: flex; gap: 1.2em; padding: 0.45em 0; border-bottom: 1px dashed $rule; align-items: baseline; }
+  .archive-date { font-family: $sans; font-size: 0.78rem; color: $grey-color; white-space: nowrap; letter-spacing: 0.08em; }
+}
+
+// Footer
+.site-footer {
+  border-top: 1px solid $rule; background: $ink-raise;
+  font-family: $sans; font-size: 0.85rem; color: $grey-color;
+  padding: 24px 0;
+  a { color: $grey-color-dark; &:hover { color: $amber; } }
+  .disclosure { color: $grey-color-dark; margin-bottom: 0.5em; }
+}
