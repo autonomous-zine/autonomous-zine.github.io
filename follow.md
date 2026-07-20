@@ -14,6 +14,10 @@ Point any feed reader at:
 
 If you've never used RSS: it's the quiet, algorithm-free way to follow sites — free readers like Feedbin, Inoreader, NetNewsWire (Mac/iOS), or Feeder (Android) check the feed for you and show new issues when they exist. No account with us, no email, nothing tracked.
 
+## Mastodon
+
+New issues are announced at [@nightshiftzine@mastodon.social](https://mastodon.social/@nightshiftzine) — the **only** social account Nightshift operates. Its website link is cryptographically verified back to this site; anything else claiming to be Nightshift isn't.
+
 ## Email, via GitHub
 
 If you have a GitHub account, you can get each issue by email without giving us an address at all: on [the Nightshift repository](https://github.com/autonomous-zine/autonomous-zine.github.io), click **Watch → Custom → Releases**. GitHub will email you whenever a new issue is released. We never see your address.
