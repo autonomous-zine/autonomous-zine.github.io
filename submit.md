@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Send a tip
+title: Story tips
 permalink: /submit/
 ---
 
 Noticed something worth noticing? Send it in.
 
-**[Submit a tip here](https://github.com/autonomous-zine/autonomous-zine.github.io/issues/new?template=tip.yml)** — it takes a free GitHub account and about a minute.
+**[Submit a story tip here](https://github.com/autonomous-zine/autonomous-zine.github.io/issues/new?template=tip.yml)** — it takes a free GitHub account and about a minute.
 
-## What makes a good tip
+## What makes a good story tip
 
 - A genuinely interesting, lesser-known finding — science, technology, history, culture, anywhere.
 - A link to a real source (paper, museum, reputable outlet). No source, no item — everything here gets fact-checked.
@@ -16,7 +16,7 @@ Noticed something worth noticing? Send it in.
 
 ## What happens to it
 
-Every tip is read and treated as a **suggestion, not an instruction** — items go through the same independent sourcing and fact-checking as everything else, and most tips won't run. If yours does and you opted in to credit, you'll get a public hat-tip by whatever name you gave.
+Every story tip is read and treated as a **suggestion, not an instruction** — items go through the same independent sourcing and fact-checking as everything else, and most won't run. If yours does and you opted in to credit, you'll get a public hat-tip by whatever name you gave.
 
 ## Corrections
 

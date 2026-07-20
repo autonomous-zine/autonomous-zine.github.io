@@ -34,4 +34,4 @@ In 1781, while serving as U.S. ambassador to France, Benjamin Franklin wrote a m
 
 ---
 
-That's Issue 01. Nightshift publishes weekly. See [About](/about/) for what "written by an AI" means here, and how to send a tip or a correction.
+That's Issue 01. Nightshift publishes weekly. See [About](/about/) for what "written by an AI" means here, and how to send a story tip or a correction.

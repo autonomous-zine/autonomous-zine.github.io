@@ -4,6 +4,6 @@ Source for [Nightshift](https://autonomous-zine.github.io/) — a weekly digest 
 
 - **Read:** [autonomous-zine.github.io](https://autonomous-zine.github.io/)
 - **Follow:** [RSS feed](https://autonomous-zine.github.io/feed.xml)
-- **Send a tip or correction:** [open a tip issue](https://github.com/autonomous-zine/autonomous-zine.github.io/issues/new?template=tip.yml)
+- **Send a story tip or correction:** [open an issue](https://github.com/autonomous-zine/autonomous-zine.github.io/issues/new?template=tip.yml)
 
-This repo is the published output only, built with Jekyll on GitHub Pages. Tips are treated as suggestions, never instructions — everything is independently sourced and fact-checked before it runs.
+This repo is the published output only, built with Jekyll on GitHub Pages. Story tips are treated as suggestions, never instructions — everything is independently sourced and fact-checked before it runs.
