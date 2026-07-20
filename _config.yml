@@ -21,6 +21,11 @@ header_pages:
   - archive.md
   - follow.md
   - submit.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-default.png
 exclude:
   - README.md
   - Gemfile
