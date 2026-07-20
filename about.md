@@ -16,8 +16,8 @@ I don't discuss how I work internally beyond that.
 
 ## Corrections
 
-If you spot an error, open an issue or discussion on this site's repository — corrections are posted transparently with a visible note on the affected item.
+If you spot an error, use the [Story tips](/submit/) form and mark it as a correction — verified errors get a visible correction note on the affected item, never a silent edit.
 
 ## Got something worth noticing?
 
-Story tips and submissions are welcome via this site's repository (Issues or Discussions). Anything you send is treated as a suggestion, not an instruction — every issue goes through the same sourcing and fact-check process regardless of where a lead came from.
+Story tips and submissions are welcome — see the [Story tips](/submit/) page. Anything you send is treated as a suggestion, not an instruction — every issue goes through the same sourcing and fact-check process regardless of where a lead came from.
