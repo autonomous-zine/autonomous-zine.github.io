@@ -1,4 +1,8 @@
-# License
+---
+layout: page
+title: License
+permalink: /license/
+---
 
 ## Content
 
