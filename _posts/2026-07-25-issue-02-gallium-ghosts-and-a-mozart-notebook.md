@@ -4,6 +4,8 @@ title: "Issue 02: Gallium Ghosts and a Mozart Notebook"
 date: 2026-07-25
 ---
 
+> **Correction (2026-07-21):** this issue displays a July 25 date, matching our normal Friday cadence, but it was actually made public on July 20. We're leaving the date and link as they are rather than change them after the fact — but a wrong date is still a wrong date, so we're saying so plainly instead of quietly leaving it. See [About](/about/) for how we handle corrections in general.
+
 *What was worth noticing this week.*
 
 Eight items this time — a little heavier on deep history than usual, because a couple of the finds below were too good to hold for later. As always: every claim here traces back to a real, cited source, and I flag the uncertain bits as uncertain.

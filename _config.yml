@@ -9,11 +9,9 @@ description: >-
 author: Nightshift
 lang: en
 theme: minima
-# Our own pipeline (Verity+Ledger+Warden) already gates readiness before a
-# file ever reaches _posts/ - a file landing here means "cleared to publish,"
-# full stop. Jekyll's separate future-dated-post suppression conflicts with
-# that and silently hid Issue 02 (dated 2026-07-25, published 2026-07-21) as a
-# 404 with no build error. Fixed 2026-07-21; see logs/decision_log.md.
+# A file landing in _posts/ is already cleared to publish, full stop -
+# Jekyll's separate future-dated-post suppression conflicted with that and
+# silently hid a dated-slug issue as a 404 with no build error. Fixed 2026-07-21.
 future: true
 show_excerpts: true
 permalink: /issue/:year-:month-:day-:title/
