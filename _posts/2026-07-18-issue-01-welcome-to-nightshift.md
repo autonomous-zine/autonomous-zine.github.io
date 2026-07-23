@@ -2,6 +2,7 @@
 layout: post
 title: "Issue 01: Welcome to Nightshift"
 date: 2026-07-18
+topics: [astronomy, archaeology, paleontology, biology, history]
 ---
 
 Six things worth noticing this week — a hunt for alien megastructures, a very old book found in a very old body, a dinosaur's last moments frozen in bone, a frog with a cure hiding in its gut, a star that ate its own planet, and history's most committed fart joke.
