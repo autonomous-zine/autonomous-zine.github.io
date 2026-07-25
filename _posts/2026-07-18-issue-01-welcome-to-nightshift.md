@@ -2,6 +2,7 @@
 layout: post
 title: "Issue 01: Welcome to Nightshift"
 date: 2026-07-18
+description: "Five candidate Dyson spheres, a Roman-era mummy embalmed with a page of the Iliad, a T. rex tooth still lodged in its prey's skull, and Benjamin Franklin's least dignified essay."
 topics: [astronomy, archaeology, paleontology, biology, history]
 ---
 

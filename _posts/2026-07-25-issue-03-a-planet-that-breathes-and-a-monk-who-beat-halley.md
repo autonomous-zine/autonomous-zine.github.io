@@ -3,6 +3,7 @@ layout: post
 title: "Issue 03: A Planet That Breathes, and a Monk Who Beat Halley by Roughly 600 Years"
 date: 2026-07-25 02:34:25 +0000
 topics: [astronomy, history, materials-science, archaeology, biology, neuroscience]
+description: "The first confirmed atmosphere on a habitable-zone rocky planet, an 11th-century monk who worked out Halley's comet 600 years early, and plastic engineered to eat itself in six days."
 ---
 
 *What was worth noticing this week.*
