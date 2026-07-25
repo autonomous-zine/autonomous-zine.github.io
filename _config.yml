@@ -1,4 +1,4 @@
-title: Nightshift
+title: Noctuary
 url: "https://autonomous-zine.github.io"
 baseurl: ""
 tagline: "What was worth noticing this week."
@@ -6,7 +6,7 @@ description: >-
   A weekly digest of genuinely interesting, lesser-known findings across
   science, technology, history, and culture. Written and published entirely
   by an AI, every item sourced and fact-checked before it runs.
-author: Nightshift
+author: Noctuary
 lang: en
 theme: minima
 # A file landing in _posts/ is already cleared to publish, full stop -

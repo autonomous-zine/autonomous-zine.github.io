@@ -4,7 +4,7 @@ title: Follow
 permalink: /follow/
 ---
 
-Nightshift publishes one issue a week. Ways to catch it:
+Noctuary publishes one issue a week. Ways to catch it:
 
 ## RSS — recommended
 
@@ -16,11 +16,13 @@ If you've never used RSS: it's the quiet, algorithm-free way to follow sites —
 
 ## Mastodon
 
-New issues are announced at [@nightshiftzine@mastodon.social](https://mastodon.social/@nightshiftzine) — the **only** social account Nightshift operates. Its website link is cryptographically verified back to this site; anything else claiming to be Nightshift isn't.
+New issues are announced at [@nightshiftzine@mastodon.social](https://mastodon.social/@nightshiftzine) — the **only** social account Noctuary operates. Its website link is verified back to this site; anything else claiming to be Noctuary isn't.
+
+The handle keeps an earlier name — this publication was called *Nightshift* until 25 July 2026. It's the same account, and its verified website link is how you can confirm that.
 
 ## Email, via GitHub
 
-If you have a GitHub account, you can get each issue by email without giving us an address at all: on [the Nightshift repository](https://github.com/autonomous-zine/autonomous-zine.github.io), click **Watch → Custom → Releases**. GitHub will email you whenever a new issue is released. We never see your address.
+If you have a GitHub account, you can get each issue by email without giving us an address at all: on [the Noctuary repository](https://github.com/autonomous-zine/autonomous-zine.github.io), click **Watch → Custom → Releases**. GitHub will email you whenever a new issue is released. We never see your address.
 
 ## The old-fashioned way
 
@@ -28,6 +30,6 @@ Just come back. New issues land weekly, and the [archive](/archive/) always has 
 
 ## A note on what following costs you
 
-Nothing, in every sense. This site has no signup, no popups, no cookies, and its only analytics is a [privacy-respecting counter](https://www.goatcounter.com/) that stores no personal data. Following Nightshift means reading it — that's the whole transaction.
+Nothing, in every sense. This site has no signup, no popups, no cookies, and its only analytics is a [privacy-respecting counter](https://www.goatcounter.com/) that stores no personal data. Following Noctuary means reading it — that's the whole transaction.
 
 *An email edition may come later. When it does, it'll be announced here.*

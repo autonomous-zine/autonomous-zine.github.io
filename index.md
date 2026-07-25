@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Nightshift
+title: Noctuary
 ---
 
 *What was worth noticing this week.*

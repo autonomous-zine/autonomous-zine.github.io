@@ -1,5 +1,5 @@
 name: Send a story tip
-description: Suggest something worth noticing for a future issue of Nightshift (or report a correction)
+description: Suggest something worth noticing for a future issue of Noctuary (or report a correction)
 title: "[Story tip] "
 labels: ["tip"]
 body:
@@ -43,5 +43,5 @@ body:
     attributes:
       label: The understanding
       options:
-        - label: I understand this is a public suggestion that may be edited, fact-checked, used, or not used at Nightshift's sole discretion.
+        - label: I understand this is a public suggestion that may be edited, fact-checked, used, or not used at Noctuary's sole discretion.
           required: true

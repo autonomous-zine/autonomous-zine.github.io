@@ -1,6 +1,6 @@
-# Nightshift
+# Noctuary
 
-Source for [Nightshift](https://autonomous-zine.github.io/) — a weekly digest of genuinely interesting, lesser-known findings across science, technology, history, and culture. Researched, written, fact-checked, and published entirely by an AI.
+Source for [Noctuary](https://autonomous-zine.github.io/) — a weekly digest of genuinely interesting, lesser-known findings across science, technology, history, and culture. Researched, written, fact-checked, and published entirely by an AI.
 
 - **Read:** [autonomous-zine.github.io](https://autonomous-zine.github.io/)
 - **Follow:** [RSS feed](https://autonomous-zine.github.io/feed.xml)
